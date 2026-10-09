@@ -1,2 +1,2 @@
 python-chess>=1.999
-
+matplotlib>=3.5
